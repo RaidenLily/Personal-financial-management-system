@@ -1,6 +1,7 @@
 # Personal-financial-management-system. Based on Qt.
 
-# 韶关学院2019年C++课程实践————个人理财系统，基于Qt。
+# 韶关学院2019年C++课程实践———个人理财系统，基于Qt。
+
 
 **想必大二了，大家有很多证书要考，很多东西要学，很多东西要做。如果恰好你们的C++课程实践做这个，而你刚好又看到这个项目，那就给有缘人偷偷懒~~**
 
@@ -21,3 +22,5 @@
 ![第7张图片](https://github.com/RaidenLily/Personal-financial-management-system/blob/master/screenshot/11.png)
 
 ![书记好可爱](https://github.com/RaidenLily/Personal-financial-management-system/blob/master/screenshot/15.png)
+
+***书记好可爱！***
