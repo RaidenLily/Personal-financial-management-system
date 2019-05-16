@@ -1,7 +1,6 @@
-# Personal-financial-management-system
+# Personal-financial-management-system. Based on Qt.
 
 # 韶关学院2019年C++课程实践————个人理财系统，基于Qt。
-## for Shaoguan College 2019 c++ course practice. Based on Qt.
 
 **想必大二了，大家有很多证书要考，很多东西要学，很多东西要做。如果恰好你们的C++课程实践做这个，而你刚好又看到这个项目，那就给有缘人偷偷懒~~**
 
